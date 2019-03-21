@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
         Toast.makeText(applicationContext,"ooooo",Toast.LENGTH_SHORT).show()
-
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
